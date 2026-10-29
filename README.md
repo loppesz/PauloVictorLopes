@@ -2,7 +2,7 @@
 # Bem Vindo! :wave::smiley:
 
 <!--Introduction -->
-👋 Olá! Me chamo Paulo Victor, tenho 21 anos e sou apaixonado por tecnologia desde pequeno. Sempre fui aquele cara curioso que gostava de mexer, testar, desmontar e entender como as coisas funcionam.
+👋 Olá! Me chamo Paulo Victor, tenho 22 anos e sou apaixonado por tecnologia desde pequeno. Sempre fui aquele cara curioso que gostava de mexer, testar, desmontar e entender como as coisas funcionam.
 
 Hoje continuo seguindo essa mesma essência: aprender constantemente, resolver problemas e tentar ajudar outras pessoas através da tecnologia. Gosto de desafios, programação, desenvolvimento de sistemas e tudo que envolve criar soluções úteis e funcionais.
 
